@@ -1,0 +1,47 @@
+.app {
+    margin-left: 20px;
+}
+
+hr {
+    margin-left: -20px;
+    margin-bottom: 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table thead tr {
+    text-align: left;
+    color: grey;
+    font-weight: bold;
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+}
+
+table th, table td {
+    padding: 12px 15px;
+    font-weight: bold;
+}
+
+table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.new-data-form {
+    margin: 20px 0;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.nav {
+    margin: 20px 0;
+}
