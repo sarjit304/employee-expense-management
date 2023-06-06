@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/employee-expense-management/static/css/main.e09f9b95.css",
+    "main.js": "/employee-expense-management/static/js/main.a852a221.js",
+    "index.html": "/employee-expense-management/index.html",
+    "main.e09f9b95.css.map": "/employee-expense-management/static/css/main.e09f9b95.css.map",
+    "main.a852a221.js.map": "/employee-expense-management/static/js/main.a852a221.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e09f9b95.css",
+    "static/js/main.a852a221.js"
+  ]
+}
